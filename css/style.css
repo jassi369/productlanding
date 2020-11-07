@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  background-color: #111111;
+}
+
+li {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+img {
+  width: 100%;
+  max-width: 100%;
+}
+.font {
+  font-size: 15px;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+  background-color: #0000;
+  z-index: 10;
+  border-radius: 0;
+  border-color: transparent;
+}
+/*--------------- carousel start------------------ */
+.carousel-inner .carousel-caption h5 {
+  font-size: 24px;
+  line-height: 1.16667;
+  font-weight: 600;
+  letter-spacing: 0em;
+  font-family: 'SF Pro Display';
+}
+.carousel-inner .carousel-caption p {
+  font-size: 48px;
+  line-height: 1.08365;
+  font-weight: 600;
+  letter-spacing: -0.003em;
+}
+/*--------------- carousel end------------------ */
+/*--------------- features start------------------ */
+.heading {
+  width: 100%;
+  background-color: #111111;
+  font-size: 87px;
+  color: white;
+  margin-top: 64px;
+  margin-bottom: 78px;
+}
+#features {
+  background-color: black;
+}
+.gill {
+  width: 40%;
+}
+/*--------------- features end------------------ */
